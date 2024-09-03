@@ -1,0 +1,64 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Air Max 270",
+      "description": "The Nike Air Max 270 is inspired by two icons of big Air: Air Max 180 and Air Max 93. It features Nike's biggest heel Air unit yet for a super-soft ride.",
+      "price": 99.33
+    },
+    {
+      "id": 2,
+      "title": "Adidas Ultraboost",
+      "description": "Adidas Ultraboost offers unmatched energy return, combining comfort with superior performance for both casual wear and running.",
+      "price": 110.99
+    },
+    {
+      "id": 3,
+      "title": "Puma RS-X",
+      "description": "The Puma RS-X reinvents the running system by combining retro style with modern technology, offering bold colorways and maximum comfort.",
+      "price": 120.99
+    },
+    {
+      "id": 4,
+      "title": "Asics Gel-Kayano 27",
+      "description": "The Asics Gel-Kayano 27 provides excellent cushioning and support for long-distance running, ensuring a smooth and stable ride.",
+      "price": 160
+    },
+    {
+      "id": 5,
+      "title": "New Balance 990v5",
+      "description": "The New Balance 990v5 is a classic running shoe that offers premium materials, a comfortable fit, and durable construction.",
+      "price": 175
+    },
+    {
+      "id": 6,
+      "title": "Reebok Nano X1",
+      "description": "Reebok Nano X1 is designed for the versatile athlete who does it all, with a focus on comfort, stability, and durability during high-intensity workouts.",
+      "price": 130
+    },
+    {
+      "id": 7,
+      "title": "Under Armour HOVR Phantom 2",
+      "description": "The Under Armour HOVR Phantom 2 offers a sock-like fit with excellent energy return and cushioning, ideal for both running and training.",
+      "price": 140
+    },
+    {
+      "id": 8,
+      "title": "Brooks Ghost 13",
+      "description": "Brooks Ghost 13 is known for its smooth transitions and plush comfort, making it a top choice for neutral runners.",
+      "price": 130
+    },
+    {
+      "id": 9,
+      "title": "Saucony Endorphin Speed",
+      "description": "Saucony Endorphin Speed is designed for speed and comfort, featuring a lightweight construction with excellent responsiveness.",
+      "price": 160
+    },
+    {
+      "id": 10,
+      "title": "Hoka One One Clifton 7",
+      "description": "Hoka One One Clifton 7 provides a balanced ride with superior cushioning, making it a favorite among runners seeking a smooth and responsive run.",
+      "price": 130
+    }
+  ]
+}
